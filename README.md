@@ -4,7 +4,7 @@
 
 A short demonstration of the **Personalized Networking Assistant** is available here:
 
-▶ **Demo Video:** *Add your Google Drive or YouTube demo link here.*
+▶ **Demo Video:** https://drive.google.com/file/d/1fId0n4sVmz-A-fN9QrD3WGOh6Q04AX9a/view?usp=drive_link
 
 ---
 
