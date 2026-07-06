@@ -1,2 +1,11 @@
-# Personalized-Networking-Assistant
-An AI-powered Streamlit app for professional networking. It extracts event themes using NLP zero-shot classification, generates context-aware conversation starters, offers instant Wikipedia fact-verification, and tracks user feedback with a dynamic real-time engagement dashboard. Perfect for mastering your next event!
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
+
