@@ -90,7 +90,7 @@ Personalized-Networking-Assistant/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Personalized-Networking-Assistant.git
+git clone https://github.com/mahanthipeetha/Personalized-Networking-Assistant.git
 ```
 
 ### Navigate to the project directory
